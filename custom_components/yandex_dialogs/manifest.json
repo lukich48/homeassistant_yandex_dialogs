@@ -1,0 +1,8 @@
+{
+  "domain": "yandex_dialogs",
+  "name": "Yandex Dialogs",
+  "config_flow": true,
+  "documentation": "https://github.com/lukich48",
+  "dependencies": ["webhook"],
+  "codeowners": []
+}
